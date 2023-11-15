@@ -21,7 +21,7 @@ Open the starter code notebook and use it to complete the following steps:
 2. Create the labels set (`y`) from the “loan_status” column, and then create the features (`X`) DataFrame from the remaining columns.
 
 >NOTE  
-    > A value of 0 in the “loan_status” column means that the loan is healthy. A value of 1 means that the loan has a high risk of defaulting.
+     A value of 0 in the “loan_status” column means that the loan is healthy. A value of 1 means that the loan has a high risk of defaulting.
 
 3. Split the data into training and testing datasets by using train_test_split.
 
@@ -47,6 +47,6 @@ Structure your report by using the report template that `Starter_Code.zip` inclu
 
 1. **An overview of the analysis:** Explain the purpose of this analysis.
 
-2. **The results:** Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model.
+2. **The results:** Using a bulleted list, describe the accuracy score, the precision score, and the recall score of the machine learning model.
 
 3. **A summary:** Summarize the results from the machine learning model. Include your justification for recommending the model for use by the company. If you don’t recommend the model, justify your reasoning.
